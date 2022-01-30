@@ -1244,7 +1244,7 @@ div {
 
 
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 400px) {
   .navigation {
     overflow: hidden;
   }
